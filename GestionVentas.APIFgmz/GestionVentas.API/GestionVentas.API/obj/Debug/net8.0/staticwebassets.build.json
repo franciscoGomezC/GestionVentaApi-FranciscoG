@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "l4W4ILnA4FG3vAsMLbLdtdLU7Hypn2PoH1+1YV2tJ2w=",
+  "Source": "GestionVentas.API",
+  "BasePath": "_content/GestionVentas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

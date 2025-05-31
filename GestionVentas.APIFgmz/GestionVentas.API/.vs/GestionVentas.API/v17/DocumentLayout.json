@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9F9E9E-B99B-4A35-9BFD-C30B5B1D60BC}|GestionVentas.API\\GestionVentas.API.csproj|c:\\users\\franc\\source\\repos\\gestionventas.apifgmz\\gestionventas.api\\gestionventas.api\\controllers\\users\\authcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9F9E9E-B99B-4A35-9BFD-C30B5B1D60BC}|GestionVentas.API\\GestionVentas.API.csproj|solutionrelative:gestionventas.api\\controllers\\users\\authcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A5B5F6-8092-403C-8D64-2345E7BBCCC8}|Infrastucture2\\GestionVentas.Infrastructure.csproj|c:\\users\\franc\\source\\repos\\gestionventas.apifgmz\\gestionventas.api\\infrastucture2\\repositories\\auth\\authservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A5B5F6-8092-403C-8D64-2345E7BBCCC8}|Infrastucture2\\GestionVentas.Infrastructure.csproj|solutionrelative:infrastucture2\\repositories\\auth\\authservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6A7DF-EF58-4D57-B69E-1FF096D066AB}|GestionVentas.core\\GestionVentas.core.csproj|c:\\users\\franc\\source\\repos\\gestionventas.apifgmz\\gestionventas.api\\gestionventas.core\\dtos\\users\\authdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D6A7DF-EF58-4D57-B69E-1FF096D066AB}|GestionVentas.core\\GestionVentas.core.csproj|solutionrelative:gestionventas.core\\dtos\\users\\authdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6A7DF-EF58-4D57-B69E-1FF096D066AB}|GestionVentas.core\\GestionVentas.core.csproj|c:\\users\\franc\\source\\repos\\gestionventas.apifgmz\\gestionventas.api\\gestionventas.core\\interfaces\\user\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D6A7DF-EF58-4D57-B69E-1FF096D066AB}|GestionVentas.core\\GestionVentas.core.csproj|solutionrelative:gestionventas.core\\interfaces\\user\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6A7DF-EF58-4D57-B69E-1FF096D066AB}|GestionVentas.core\\GestionVentas.core.csproj|c:\\users\\franc\\source\\repos\\gestionventas.apifgmz\\gestionventas.api\\gestionventas.core\\models\\login\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D6A7DF-EF58-4D57-B69E-1FF096D066AB}|GestionVentas.core\\GestionVentas.core.csproj|solutionrelative:gestionventas.core\\models\\login\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6A7DF-EF58-4D57-B69E-1FF096D066AB}|GestionVentas.core\\GestionVentas.core.csproj|c:\\users\\franc\\source\\repos\\gestionventas.apifgmz\\gestionventas.api\\gestionventas.core\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D6A7DF-EF58-4D57-B69E-1FF096D066AB}|GestionVentas.core\\GestionVentas.core.csproj|solutionrelative:gestionventas.core\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9F9E9E-B99B-4A35-9BFD-C30B5B1D60BC}|GestionVentas.API\\GestionVentas.API.csproj|c:\\users\\franc\\source\\repos\\gestionventas.apifgmz\\gestionventas.api\\gestionventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9F9E9E-B99B-4A35-9BFD-C30B5B1D60BC}|GestionVentas.API\\GestionVentas.API.csproj|solutionrelative:gestionventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.core\\Models\\Login\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "GestionVentas.core\\Models\\Login\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.core\\Models\\Login\\ApplicationUser.cs",
+              "RelativeToolTip": "GestionVentas.core\\Models\\Login\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:37:47.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.core\\Config\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "GestionVentas.core\\Config\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.core\\Config\\JwtSettings.cs",
+              "RelativeToolTip": "GestionVentas.core\\Config\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:03:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController2.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.API\\Controllers\\Users\\AuthController2.cs",
+              "RelativeDocumentMoniker": "GestionVentas.API\\Controllers\\Users\\AuthController2.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.API\\Controllers\\Users\\AuthController2.cs",
+              "RelativeToolTip": "GestionVentas.API\\Controllers\\Users\\AuthController2.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:58:18.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\Infrastucture2\\Repositories\\Auth\\AuthServiceRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture2\\Repositories\\Auth\\AuthServiceRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\Infrastucture2\\Repositories\\Auth\\AuthServiceRepository.cs",
+              "RelativeToolTip": "Infrastucture2\\Repositories\\Auth\\AuthServiceRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:55:35.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.core\\Interfaces\\User\\IAuthService.cs",
+              "RelativeDocumentMoniker": "GestionVentas.core\\Interfaces\\User\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.core\\Interfaces\\User\\IAuthService.cs",
+              "RelativeToolTip": "GestionVentas.core\\Interfaces\\User\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:54:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthDto2.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.core\\DTOs\\Users\\AuthDto2.cs",
+              "RelativeDocumentMoniker": "GestionVentas.core\\DTOs\\Users\\AuthDto2.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.core\\DTOs\\Users\\AuthDto2.cs",
+              "RelativeToolTip": "GestionVentas.core\\DTOs\\Users\\AuthDto2.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:50:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.API\\Program.cs",
+              "RelativeDocumentMoniker": "GestionVentas.API\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\GestionVentas.APIFgmz\\GestionVentas.API\\GestionVentas.API\\Program.cs",
+              "RelativeToolTip": "GestionVentas.API\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:41:06.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
